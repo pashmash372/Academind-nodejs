@@ -33,3 +33,10 @@ console.log('Hi!'); // this will be printed second
 
 // above is synchronous code, it will be executed first
 
+
+// template literals
+const name = 'Max';
+const age = 29;
+console.log(`My name is ${name} and I am ${age} years old.`);
+
+// My name is Max and I am 29 years old.
