@@ -190,3 +190,8 @@ it's trending,
 it's fast, it's efficient and it makes sure that you only need to learn one language to write all the
 
 code you need in a modern web application.
+
+
+MDN JavaScript Tutorial: https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+
+Academind JS Resources: https://academind.com/learn/javascript
