@@ -11,3 +11,5 @@ Written DUMMY in the input
 
 new file message.txt created
 ![Alt text](image-3.png)
+
+![Alt text](image-4.png)
