@@ -148,3 +148,10 @@ each function is only scoped to itself and not accessible by the other functions
 so by default we have that separation due to how javascript works.
 ```
 
+
+
+![Alt text](image-10.png)
+
+![Alt text](image-11.png)
+
+![Alt text](image-12.png)
