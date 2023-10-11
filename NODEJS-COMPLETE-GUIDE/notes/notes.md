@@ -25,3 +25,14 @@ npm install --save express
 Its all about middleware
 
 ![Alt text](image-4.png)
+
+![Alt text](image-6.png)
+
+app listen 
+intent to listen to incoming requests
+const server = http.createServer(app);
+server.listen(3000);
+
+![Alt text](image-5.png)
+
+![Alt text](image-7.png)
