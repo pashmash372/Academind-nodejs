@@ -21,3 +21,7 @@ npm install --save express
 
 
 ![Alt text](image.png)
+
+Its all about middleware
+
+![Alt text](image-4.png)
