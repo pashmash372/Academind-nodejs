@@ -36,3 +36,10 @@ server.listen(3000);
 ![Alt text](image-5.png)
 
 ![Alt text](image-7.png)
+
+
+https://expressjs.com/en/5x/api.html#app.use
+
+checkout app.use docs
+
+![Alt text](image-8.png)
