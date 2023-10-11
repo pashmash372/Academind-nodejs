@@ -43,3 +43,11 @@ https://expressjs.com/en/5x/api.html#app.use
 checkout app.use docs
 
 ![Alt text](image-8.png)
+
+
+ npm install --save body-parser
+
+ ![Alt text](image-9.png)
+ ![Alt text](image-11.png)
+
+ ![Alt text](image-10.png)
