@@ -6,6 +6,9 @@ const express = require('express');
 
 const app = express();
 
+app.set('view engine','pug'); // Set a value globally for the express app
+app.set('views','views'); // Set a value globally for the express app
+
 const adminRoutes = require('./routes/admin');
 const shopRoutes = require('./routes/shop');
 
